@@ -1,0 +1,9 @@
+﻿{
+  "editable": [
+    "src/RevelChallenge/*"
+  ],
+  "exclude": [
+    "challenge.json"
+  ],
+  "test": "mocha --recursive spec/*"
+}

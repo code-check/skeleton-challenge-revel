@@ -1,0 +1,6 @@
+﻿web:
+  command: revel run RevelChallenge
+  port: 9000
+  dir: /
+  console: true
+test: mocha --recursive spec/*

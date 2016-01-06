@@ -1,0 +1,3 @@
+﻿
+GET		/                                       App.Index
+*       /:controller/:action                    :controller.:action
